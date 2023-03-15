@@ -1,3 +1,7 @@
+Welcome to my portfolio dedicated to my Open Source journey. During my years at Polytech Montpellier, I had the opportunity to explore and actively contribute to the Open Source community. This portfolio highlights my achievements and contributions, both individual and collective, in various Open Source projects.
+
+You will discover the projects I have participated in, the skills I have acquired, and the passion I have developed for Open Source. My experience at Polytech has allowed me not only to strengthen my technical expertise but also to understand the importance of collaboration and sharing in the development of innovative and efficient solutions.
+
 ## [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)
 > Dead simple way to run LLaMA on your computer. LLaMA is the Meta's 65-billion-parameter large language model.
 
